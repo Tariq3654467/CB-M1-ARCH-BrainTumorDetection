@@ -1,9 +1,3 @@
-✅ 1. Cleaned README.md Template
-Tailored for your Brain Tumor Detection project using YOLOv11 + SAM2
-
-markdown
-Copy
-Edit
 # 🧠 Brain Tumor Detection using YOLOv11 & SAM2
 
 This project uses advanced deep learning models — **YOLOv11** for tumor detection and **SAM2 (Segment Anything Model)** for precise brain tumor segmentation from MRI images.
